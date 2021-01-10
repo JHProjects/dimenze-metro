@@ -31,7 +31,7 @@ if (status == true) {
 				console.warn("loop reseted");
 			};
 		}
-	}, 110);
+	}, 130);
 };
 
 
