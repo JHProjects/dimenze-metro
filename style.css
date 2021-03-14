@@ -93,7 +93,7 @@ button:visited	{
 	background: #FFF;
 	visibility: hidden;
 	animation-name: overlap;
-	animation-duration: 5s;
+	animation-duration: 4.7s;
 	animation-timing-function: linear;
 	display: flex;
 	align-items: center;
